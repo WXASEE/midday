@@ -14,6 +14,7 @@
   "dependencies": {
     "@midday/supabase": "workspace:*",
     "@midday/ui": "workspace:*",
+    "@midday/chat-pdf": "workspace:*",
     "@openpanel/nextjs": "^1.0.8",
     "@openstatus/react": "^0.0.3",
     "@team-plain/typescript-sdk": "5.9.0",
